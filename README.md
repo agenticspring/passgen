@@ -60,7 +60,7 @@ $ python3 passgen.py --length 16 --no-symbols --no-ambiguous --count 3 --entropy
 <candidate 1>
 <candidate 2>
 <candidate 3>
-entropy: 95.3 bits
+entropy: 93.3 bits
 strength: Strong
 ```
 
